@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sashanabinnie
 - 👀 I’m interested in cloud technologies (AWS, GCP), java, python and utilizing angular and react frameworks.
 - 🌱 I’m currently learning software engineering at Regis University.
-- 💞️ I’m looking to collaborate on new projects for knowledge sharing and peer coding.
+- 💞️ I’m looking to collaborate on new projects for knowledge sharing and peer to peer coding.
 - 📫 How to reach me: Sashanabinnie@gmail.com or 860-994-1572.
 
 <!---
